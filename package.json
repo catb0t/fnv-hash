@@ -1,8 +1,8 @@
 {
   "name":        "fnv-hash",
-  "version":     "1.0.0",
+  "version":     "1.1.0",
   "repo":        "catb0t/fnv-hash",
-  "description": "Fowler/Noll/Vo hash algorithms suited for fast datastructures",
+  "description": "Fowler/Noll/Vo non-cryptographic hash algorithms",
   "keywords":    [ "hash", "algorithm" ],
   "license":     "Public Domain",
   "src": [
@@ -14,7 +14,8 @@
     "hash_32a.c",
     "hash_64b.c",
     "have_ulong64.c",
-    "test_fnv.c"
+    "test_fnv.c",
+    "WHATS-THIS.md"
   ]
 
   "install": "make install"
