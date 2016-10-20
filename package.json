@@ -16,7 +16,7 @@
     "have_ulong64.c",
     "test_fnv.c",
     "WHATS-THIS.md"
-  ]
+  ],
 
   "install": "make install"
 }
