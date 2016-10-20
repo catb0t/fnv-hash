@@ -1,1 +1,1 @@
-This directory contains the public domain release of the FNV-1* hash algorithm. See README for more information.
+This repository contains the public domain release of the FNV hash algorithms. See the README for more information.
