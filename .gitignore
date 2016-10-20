@@ -1,2 +1,10 @@
-*.o
-*.a
+# ignore everything
+*
+# unignore everything with an extension
+!*.*
+# ignore .a and .o
+*.[ao]
+# don't ignore the makefile
+!Makefile
+# this is a generated file, ignore it
+longlong.h
