@@ -1,6 +1,6 @@
 {
   "name":        "fnv-hash",
-  "version":     "1.1.2",
+  "version":     "1.1.3",
   "repo":        "catb0t/fnv-hash",
   "description": "Fowler/Noll/Vo non-cryptographic hash algorithms",
   "keywords":    [ "hash", "algorithm" ],
@@ -16,7 +16,5 @@
     "have_ulong64.c",
     "test_fnv.c",
     "WHATS-THIS.md"
-  ],
-
-  "install": "sudo make install"
+  ]
 }
