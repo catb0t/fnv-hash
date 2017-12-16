@@ -18,5 +18,6 @@
     "Makefile",
     "README.txt",
     "WHATS-THIS.md"
-  ]
+  ],
+  "makefile": "Makefile"
 }
