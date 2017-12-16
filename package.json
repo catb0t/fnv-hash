@@ -10,9 +10,9 @@
     "fnv32.c",
     "fnv64.c",
     "hash_32.c",
-    "hash_64.c",
     "hash_32a.c",
-    "hash_64b.c",
+    "hash_64.c",
+    "hash_64a.c",
     "have_ulong64.c",
     "test_fnv.c",
     "WHATS-THIS.md"
