@@ -1,6 +1,6 @@
 {
   "name":        "fnv-hash",
-  "version":     "1.1.0",
+  "version":     "1.1.1",
   "repo":        "catb0t/fnv-hash",
   "description": "Fowler/Noll/Vo non-cryptographic hash algorithms",
   "keywords":    [ "hash", "algorithm" ],
